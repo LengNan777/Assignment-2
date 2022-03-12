@@ -2,3 +2,11 @@ body {
   text-align: center;
   background-color: antiquewhite;
 }
+
+html {
+  filter: invert(100%);
+}
+
+html img {
+  filter: invert(100%);
+}
