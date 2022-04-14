@@ -3,10 +3,53 @@ body {
   background-color: antiquewhite;
 }
 
-html {
+/* html {
   filter: invert(100%);
 }
 
 html img {
   filter: invert(100%);
+} */
+
+li {
+  font-size: 30px;
+  display: inline;
+  margin: 10px;
 }
+
+nav {
+  margin-bottom: 50px;
+}
+
+table {
+  display: inline;
+  text-align: center;
+}
+
+img {
+  margin-bottom: 100px;
+}
+
+.direction {
+  width: 50%;
+  border: black solid 1px;
+  padding: 20px;
+  margin-top: 100px;
+  text-align: left;
+}
+
+ul img{
+  float: left;
+  text-align: left;
+  margin-bottom: 0%;
+}
+
+td {
+  text-align: left;
+  font-size: 30px;
+}
+
+/* 
+tr,td {
+  text-align: center;
+} */
